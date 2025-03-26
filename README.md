@@ -1,7 +1,3 @@
-I’ve integrated the details from your latest request into the full README while keeping it **professional, attractive, and well-structured**. Here’s the **enhanced version**:  
-
----
-
 # 🛡️ **Secure RESTful API with Flask & MySQL**  
 
 <p align="center">
@@ -243,7 +239,7 @@ python app.py
 ## 📬 Connect with Me  
 
 <p align="center">
-    <a href="mailto:ahmedxghazal@gmail.com">
+    <a href="mailto:aghazal085@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/ahmedghaza1" target="_blank">
